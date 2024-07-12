@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## UNIQUE KEY 
 z2jBOsSvUEu9qbWCrMGbC
 
@@ -45,7 +44,3 @@ Start the client:
   npm start
 ```
 
-=======
-# EXPENSE_TRACKER
-z2jBOsSvUEu9qbWCrMGbC
->>>>>>> 74a479fd98a18e7c32609984560d010bc7f5f6c8
