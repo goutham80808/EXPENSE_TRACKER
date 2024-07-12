@@ -15,7 +15,7 @@ Go to the "server" directory:
   cd server
 ```
 
-Install dependencies:
+Install dependencies: those are bcrypt, body-parser, cors, dotenv, express, mongoose, nodemon, passport, jsonwebtoken
 
 ```bash
   npm install
@@ -32,7 +32,7 @@ Then open another terminal and go to the "client" directory:
   cd client
 ```
 
-Install dependencies:
+Install dependencies: those are react, web-vitals, @mui/material, dayjs, js-cookie
 
 ```bash
   npm install
